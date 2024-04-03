@@ -1,0 +1,15 @@
+{
+  "accentColor": "#8d5302",
+  "interfaceFontFamily": "Taipei Sans TC Beta,JetBrains Mono",
+  "textFontFamily": "Taipei Sans TC Beta",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Split-Page-Callout",
+    "【AnuPpuccin】扩展的颜色方案",
+    "【AnuPpuccin】custom-rainbow-colors",
+    "Side-Dock-Icon-Order"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
+}

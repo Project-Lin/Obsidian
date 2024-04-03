@@ -1,0 +1,53 @@
+{
+  "confirmDeletion": false,
+  "showDescriptions": false,
+  "showSourcesForDuplicates": false,
+  "debug": false,
+  "mainTrigger": "/",
+  "extraTriggers": [],
+  "useExtraTriggers": false,
+  "triggerOnlyOnNewLine": false,
+  "queryPattern": {},
+  "bindings": [
+    {
+      "name": "0 Property",
+      "id": "markdown:add-metadata-property",
+      "icon": "plus-circle",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "id": "templater-obsidian:DataBase/Templates/Insert Callouts.md",
+      "icon": "templater-icon",
+      "name": "1 Callout",
+      "mode": "any",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "id": "quickadd:choice:ac53bbac-f84b-48f5-83a1-f2801df8ef0c",
+      "icon": "code",
+      "name": "2 Code",
+      "mode": "any",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "id": "quickadd:choice:04f77539-2a68-42b4-a862-e04641df6414",
+      "icon": "message-square",
+      "name": "3 Speech bubbles",
+      "mode": "any",
+      "chosen": false,
+      "selected": false
+    },
+    {
+      "id": "templater-obsidian:replace-in-file-templater",
+      "icon": "templater-icon",
+      "name": "4 Template",
+      "mode": "any",
+      "chosen": false
+    }
+  ]
+}

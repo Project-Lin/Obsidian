@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "42cf3245b8576e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfe0c6c25789e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60381e0c9271e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Unity Shader 基礎.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56ad1a510f10285f",
+    "type": "split",
+    "children": [
+      {
+        "id": "550bde3f552a10fb",
+        "type": "tabs",
+        "dimension": 68.79432624113475,
+        "children": [
+          {
+            "id": "48af06cab3e74d58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "708c08efae5b57fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0917b7a284904e4",
+        "type": "tabs",
+        "dimension": 31.20567375886525,
+        "children": [
+          {
+            "id": "5d5b3326662ac2be",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384
+  },
+  "right": {
+    "id": "e7c2d64b0368a7ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19ebd300d55b7e4",
+        "type": "tabs",
+        "dimension": 31.648936170212767,
+        "children": [
+          {
+            "id": "df74791ed6cc37ef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f93f5e47b24e354",
+        "type": "tabs",
+        "dimension": 38.297872340425535,
+        "children": [
+          {
+            "id": "080686ff9f460289",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Unity Shader 基礎.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.000000000000004,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e673aa2dcad9c425",
+        "type": "tabs",
+        "dimension": 30.0531914893617,
+        "children": [
+          {
+            "id": "d5a9431d3cd40282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "頂點",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "736db196ac522f1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d9e8aaf8a6d24a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Unity Shader 基礎.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b97381df7f213fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Unity Shader 基礎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca2109718a6c920a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Unity Shader 基礎.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-importer:Open Importer": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c60381e0c9271e88",
+  "lastOpenFiles": [
+    "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Shader 語法基礎.md",
+    "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader/Unity Shader 基礎.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/31-JSON.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/33-LINQ.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/獲取執行時間的方法.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/02-字符串.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/01-命名空間.md",
+    "專案/獨立遊戲之路/Map/獨立遊戲之路.canvas",
+    "專案/獨立遊戲之路/Unity/Shader/Claude教我寫Shader",
+    "專案/獨立遊戲之路/Unity/Unity.md",
+    "專案/獨立遊戲之路/CSharpRoad.md",
+    "專案/獨立遊戲之路/獨立遊戲之路.md",
+    "專案/獨立遊戲之路/Unity/Shader/Unity Shader著色器入門教程/02-創建基礎shader.md",
+    "專案/獨立遊戲之路/Unity/Shader/Unity Shader著色器入門教程/01-屬性.md",
+    "DataBase/Doc/Unity Documentation/Particle System/00 Main module.md",
+    "專案/獨立遊戲之路/Unity/Shader/Unity Shader著色器入門教程",
+    "DataBase/Doc/Unity Documentation/Particle System/附件/Pasted image 20240402160509.png",
+    "專案/獨立遊戲之路/Unity/unity2022入門第一季/unity2022入門第一季.md",
+    "專案/獨立遊戲之路/Unity/Shader/GAME101-現代圖形學入門/01-Overview of Computer Graphics.md",
+    "專案/獨立遊戲之路/Unity/Shader/GAME101-現代圖形學入門/Untitled.md",
+    "專案/獨立遊戲之路/Unity/Shader/UnityShader入門精要",
+    "專案/獨立遊戲之路/Unity/Shader/Untitled.md",
+    "專案/獨立遊戲之路/Unity/unity2022入門第一季",
+    "專案/獨立遊戲之路/Unity/Tip.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/C编程-第四季-高级篇-宇宙最简单2022最新版.md",
+    "專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/13-坦克大戰資料結構.canvas",
+    "專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/第三季-坦克大战-宇宙最简单2021最新版.md",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/02-過程.md",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/01-開始.md",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/00-古蹟探險.md",
+    "DataBase/Templates/Template - Unity.md",
+    "DataBase/Doc/Unity Documentation/Scripting/Scripting concepts/04 Order of execution for event functions.md",
+    "專案/獨立遊戲之路/Unity/Shader/GAME101-現代圖形學入門",
+    "專案/獨立遊戲之路/Unity/Shader",
+    "專案/獨立遊戲之路/Unity/Shader",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402195432.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402195308.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402195153.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/官方文檔.md",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402171622.png",
+    "DataBase/Doc/Unity Documentation/Particle System/附件/Pasted image 20240402160441.png",
+    "DataBase/Doc/Unity Documentation/Particle System/附件",
+    "DataBase/Doc/Unity Documentation/Particle System",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402135657.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402133313.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402133242.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件/Pasted image 20240402113422.png",
+    "專案/獨立遊戲之路/Unity/Project/古蹟探險/附件",
+    "專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/未命名.canvas",
+    "日常/Life.canvas",
+    "未命名.canvas"
+  ]
+}

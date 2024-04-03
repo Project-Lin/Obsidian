@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabUnity",
+      "TiStar",
+      "OcClock24",
+      "BoBxlVisualStudio",
+      "TiCircleDashedNumber3"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "2024",
+        "icon": "LiCalendarDays",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "March",
+        "icon": "Fas3",
+        "for": "everything",
+        "order": 1
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "日常": "LiCalendarDays",
+  "專案": "RaBroadsword",
+  "專案/獨立遊戲之路": "LiGamepad2",
+  "專案/獨立遊戲之路/CSharp": "LiCode",
+  "日常/2024": "OcClock24",
+  "專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版": "TiCircleDashedNumber4",
+  "專案/獨立遊戲之路/Map": "LiMapPin",
+  "日常/Life.canvas": "RaDeathSkull",
+  "專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版": "TiCircleDashedNumber3",
+  "專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔": "BoBxlVisualStudio",
+  "專案/獨立遊戲之路/獨立遊戲之路.md": "TiStar",
+  "專案/獨立遊戲之路/CSharpRoad.md": "TiStar",
+  "DataBase": "IbDatabse",
+  "專案/獨立遊戲之路/Unity": "FabUnity"
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"41a4ba7c998a6e4d","type":"text","text":"# 2024","x":-494,"y":-100,"width":134,"height":60},
+		{"id":"e6df2193dd2832cf","type":"file","file":"日常/2024/March.md","x":-300,"y":20,"width":200,"height":220}
+	],
+	"edges":[
+		{"id":"34bf9ff3ced59a5a","fromNode":"41a4ba7c998a6e4d","fromSide":"bottom","toNode":"e6df2193dd2832cf","toSide":"left"}
+	]
+}

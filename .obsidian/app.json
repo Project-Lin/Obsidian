@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "trashOption": "local",
+  "readableLineLength": false,
+  "promptDelete": false,
+  "focusNewTab": true
+}

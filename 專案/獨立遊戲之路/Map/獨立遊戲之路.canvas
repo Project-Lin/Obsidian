@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2a7ce4227074ff26","type":"file","file":"專案/獨立遊戲之路/獨立遊戲之路.md","x":-640,"y":-200,"width":400,"height":400},
+		{"id":"ef2b2ae2a44e676a","type":"file","file":"專案/獨立遊戲之路/CSharpRoad.md","x":-20,"y":-200,"width":400,"height":400},
+		{"id":"e28130d30a48a155","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第四季-高级篇-宇宙最简单2022最新版/C编程-第四季-高级篇-宇宙最简单2022最新版.md","x":-20,"y":560,"width":400,"height":400},
+		{"id":"97d23a47aa28c382","type":"text","text":"# 累積時數 : 80hr","x":-640,"y":560,"width":320,"height":50},
+		{"id":"0dde079fca73b457","x":-640,"y":-720,"width":400,"height":400,"type":"file","file":"專案/獨立遊戲之路/Unity/Unity.md"}
+	],
+	"edges":[
+		{"id":"67f6aa76b0cecb7c","fromNode":"2a7ce4227074ff26","fromSide":"right","toNode":"ef2b2ae2a44e676a","toSide":"left"},
+		{"id":"2a5fb644ea3b2fc8","fromNode":"ef2b2ae2a44e676a","fromSide":"bottom","toNode":"e28130d30a48a155","toSide":"top"},
+		{"id":"16ccf5f17faa7987","fromNode":"2a7ce4227074ff26","fromSide":"top","toNode":"0dde079fca73b457","toSide":"bottom"}
+	]
+}

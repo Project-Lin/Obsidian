@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"77e92fdfe13ba5d7","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/From1.Designer.md","x":-331,"y":-800,"width":1031,"height":580},
+		{"id":"cf11b7ff644eb15c","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/SoundManager.md","x":-1240,"y":1080,"width":1000,"height":400},
+		{"id":"1f4bdf4b0dd532b8","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/GameObject.md","x":-460,"y":1640,"width":1250,"height":500},
+		{"id":"0837eca886a4d674","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/GameObjectManager.md","x":680,"y":1080,"width":1020,"height":400},
+		{"id":"d715f1e7bb2b6551","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/Explosion.md","x":-1580,"y":2648,"width":865,"height":400},
+		{"id":"d3cc3e0e088b71e1","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/GameFramework.md","x":-351,"y":520,"width":1071,"height":400},
+		{"id":"8bf7a8b1dcdd5824","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/From1.cs.md","x":-331,"y":-80,"width":1031,"height":400},
+		{"id":"c1843b3b746eea0f","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/NotMovething.md","x":-237,"y":2648,"width":805,"height":400},
+		{"id":"d2af82bbd9b7e0e9","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/Movething.md","x":1190,"y":2632,"width":870,"height":416},
+		{"id":"e577f19324c56c2f","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/MyTank.md","x":-275,"y":3840,"width":880,"height":1100},
+		{"id":"4cccb7d698517a70","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/Bullet.md","x":1128,"y":3840,"width":1005,"height":1100},
+		{"id":"648200d5f0e0ce7c","type":"file","file":"專案/獨立遊戲之路/CSharp/C编程-第三季-坦克大战-宇宙最简单2021最新版/專案檔/EnemyTank.md","x":2640,"y":3840,"width":1200,"height":1100}
+	],
+	"edges":[
+		{"id":"ed0ace3108a4af31","fromNode":"77e92fdfe13ba5d7","fromSide":"bottom","toNode":"8bf7a8b1dcdd5824","toSide":"top"},
+		{"id":"d2f5d12c501a7785","fromNode":"8bf7a8b1dcdd5824","fromSide":"bottom","toNode":"d3cc3e0e088b71e1","toSide":"top"},
+		{"id":"d6ef24071d1b686d","fromNode":"d2af82bbd9b7e0e9","fromSide":"bottom","toNode":"e577f19324c56c2f","toSide":"top"},
+		{"id":"c49d8c99d48fdb1c","fromNode":"0837eca886a4d674","fromSide":"top","toNode":"d3cc3e0e088b71e1","toSide":"bottom"},
+		{"id":"d7e415199591a311","fromNode":"1f4bdf4b0dd532b8","fromSide":"top","toNode":"0837eca886a4d674","toSide":"bottom"},
+		{"id":"e585265e63fa00e5","fromNode":"1f4bdf4b0dd532b8","fromSide":"bottom","toNode":"d2af82bbd9b7e0e9","toSide":"top"},
+		{"id":"0178eabc8069ff92","fromNode":"1f4bdf4b0dd532b8","fromSide":"bottom","toNode":"c1843b3b746eea0f","toSide":"top"},
+		{"id":"dbb4a03e3365b05e","fromNode":"1f4bdf4b0dd532b8","fromSide":"top","toNode":"cf11b7ff644eb15c","toSide":"bottom"},
+		{"id":"eda4e71d109a2574","fromNode":"cf11b7ff644eb15c","fromSide":"top","toNode":"d3cc3e0e088b71e1","toSide":"bottom"},
+		{"id":"827a886b89c388f1","fromNode":"1f4bdf4b0dd532b8","fromSide":"bottom","toNode":"d715f1e7bb2b6551","toSide":"top"},
+		{"id":"5231948d6fb7c231","fromNode":"d2af82bbd9b7e0e9","fromSide":"bottom","toNode":"648200d5f0e0ce7c","toSide":"top"},
+		{"id":"a482397989bdfeba","fromNode":"d2af82bbd9b7e0e9","fromSide":"bottom","toNode":"4cccb7d698517a70","toSide":"top"},
+		{"id":"bf05c62e4a3a4fab","fromNode":"4cccb7d698517a70","fromSide":"right","toNode":"648200d5f0e0ce7c","toSide":"left"},
+		{"id":"38a413ab45ffc9fe","fromNode":"4cccb7d698517a70","fromSide":"left","toNode":"e577f19324c56c2f","toSide":"right"}
+	]
+}
